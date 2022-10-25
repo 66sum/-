@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.list_box {
+  display: flex;
+  margin-top: 7px;
+  background-color: aliceblue;
+}
+.list_box image {
+  width: 200rpx;
+  height: 120rpx;
+}
+

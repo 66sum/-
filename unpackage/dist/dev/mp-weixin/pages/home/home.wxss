@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.ddd {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 10px;
+}
+.ddd big {
+  color: orange;
+  font-weight: 900;
+}
+.ddd ._span {
+  color: orangered;
+}
+.middle {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.middle text {
+  font-weight: 900;
+}
+.list_box {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.list_box .list_top {
+  width: 48%;
+}
+.list_box .list_top image {
+  width: 100%;
+}
+.serch {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+}
+.serch text {
+  width: 25%;
+}
+.serch .sea {
+  width: 75%;
+}
+
